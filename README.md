@@ -6,4 +6,4 @@
  * @FilePath: /benz-3/README.md
 -->
 # Mercedes-Benz Clone
-* ## [GitHub Page](https://kikijinqili.github.io/benz-3/)
+* ## [GitHub Page](https://jinqili0310.github.io/benz-3/)
